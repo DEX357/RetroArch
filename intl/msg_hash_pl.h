@@ -4653,3 +4653,11 @@ MSG_HASH(MENU_ENUM_LABEL_VALUE_DRIVER_SWITCH_ENABLE,
     "Pozwól rdzeniom przełączyć sterownik wideo")
 MSG_HASH(MENU_ENUM_SUBLABEL_DRIVER_SWITCH_ENABLE,
     "Pozwól rdzeniom wymusić przełączenie na inny sterownik wideo niż aktualnie załadowany.")
+   MSG_HASH(
+    MENU_ENUM_LABEL_VALUE_INPUT_OVERLAY_AUTO_ROTATE,
+    "Auto-Obracanie Nakładki"
+    )
+MSG_HASH(
+    MENU_ENUM_SUBLABEL_INPUT_OVERLAY_AUTO_ROTATE,
+    "Jeśli jest obsługiwana przez bieżącą nakładkę, automatycznie obracaj układ, aby dopasować orientację ekranu/współczynnik proporcji."
+    )
